@@ -17,6 +17,7 @@
 		CDEF164F241419CB00C16691 /* PitchPerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF164E241419CB00C16691 /* PitchPerfectTests.swift */; };
 		CDEF165A241419CB00C16691 /* PitchPerfectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF1659241419CB00C16691 /* PitchPerfectUITests.swift */; };
 		CDEF16682414231A00C16691 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF16672414231A00C16691 /* PlaySoundsViewController.swift */; };
+		CDEF166A2415519E00C16691 /* playsoundsviewcontroller-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEF16692415519E00C16691 /* playsoundsviewcontroller-audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		CDEF1659241419CB00C16691 /* PitchPerfectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitchPerfectUITests.swift; sourceTree = "<group>"; };
 		CDEF165B241419CB00C16691 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDEF16672414231A00C16691 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		CDEF16692415519E00C16691 /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				CDEF1645241419CB00C16691 /* Info.plist */,
 				CDEF163D241419C900C16691 /* PitchPerfect.xcdatamodeld */,
 				CDEF16672414231A00C16691 /* PlaySoundsViewController.swift */,
+				CDEF16692415519E00C16691 /* playsoundsviewcontroller-audio.swift */,
 			);
 			path = PitchPerfect;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				CDEF163F241419C900C16691 /* PitchPerfect.xcdatamodeld in Sources */,
 				CDEF16682414231A00C16691 /* PlaySoundsViewController.swift in Sources */,
 				CDEF1637241419C900C16691 /* SceneDelegate.swift in Sources */,
+				CDEF166A2415519E00C16691 /* playsoundsviewcontroller-audio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
